@@ -20,7 +20,7 @@ public class Figure {
                 height--;
                 i = 0;
             }
-
+//sfaefae
         }
     }
 }
