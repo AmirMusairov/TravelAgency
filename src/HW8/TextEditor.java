@@ -63,7 +63,7 @@ public class TextEditor {
 
                 for (int j = 0; j < lines.get(i).length(); j++) {
 
-                    if (lines.get(i).substring(j, j + 1).toLowerCase().matches("[aeiouyàîèå¸ýûóþÿ]")) {
+                    if (lines.get(i).substring(j, j + 1).toLowerCase().matches("[a,e,i,o,u,y]")) {
                         count++;
                     }
                 }
