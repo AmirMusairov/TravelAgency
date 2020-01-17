@@ -4,5 +4,3 @@ bin/
 .classpath
 target/
 WebContent/
-log/
-build/
